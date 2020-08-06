@@ -1,0 +1,58 @@
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Lemonada:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap");
+
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Utilities */
+@import url(/landing/css/components/banner.css);
+@import url(/landing/css/components/container.css);
+@import url(/landing/css/components/list.css);
+@import url(/landing/css/components/cards.css);
+
+
+
+body {
+  font-family: 'Lemonada', cursive;
+  font-size: 15px;
+  color: black;
+  padding: 0;
+}
+
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-size: 35px;
+  color: white;
+}
+
+h2 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 25px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  font-family: 'Lemonada', cursive;
+  font-size: 15px;
+  color: rgba(255, 96, 10, 1);
+  background-color: rgba(251, 255, 26, 1);
+  padding: 15px 30px;
+  border: solid rgba(251, 255, 26, 1);
+}
+
+footer {
+  text-align: center;
+  background-color: rgba(189, 178, 178, 1);
+}
+
+footer h2 {
+  padding-bottom: 40px;
+}
+

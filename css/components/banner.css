@@ -1,0 +1,7 @@
+.banner {
+    background-image: linear-gradient( rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(/landing/images/banner.jpg);
+    background-size: cover;
+    padding: 120px;
+    color: white;
+    margin: 0 auto;
+}
